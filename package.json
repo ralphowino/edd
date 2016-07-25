@@ -1,0 +1,24 @@
+{
+  "name": "eddie",
+  "version": "0.0.1",
+  "description": "A file generator for the modern day developer",
+  "bin": {
+    "eddie": "./src/commands/index.js",
+    "ed": "./src/commands/index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "fs-plus": "^2.9.1",
+    "inquirer": "^1.1.2",
+    "lodash": "^4.13.1",
+    "nunjucks": "^2.4.2",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raphael Owino <raphael@ralphowino.com>",
+  "license": "MIT"
+}
