@@ -21,7 +21,7 @@
 #### Template/Library Management
  - Allow saving answers as templates
  - Save as json or yaml
- - Templates and libraries either stored globally ~/.eddie or within project ./.eddie
+ - Templates and libraries either stored globally ~/.edd or within project ./.edd
  - Prefer local over global projects
  
 #### File manager

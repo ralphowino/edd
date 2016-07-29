@@ -23,18 +23,3 @@ if (!process.argv.slice(2).length) {
   program.outputHelp();
 }
 
-/*
- List of Commands
- - generate[g] laravel:resource Todo
- - build template.name
- - create template template.name
- - create library library.name
- - clone library library.name
- - clone template template.name
- - edit library library.name
- - edit template template.name
- - rm library library.name
- - rm template template.name
-
- */
-
